@@ -51,6 +51,10 @@ Main Power BI dashboard file
 Project documentation
 📌 Features of the Dashboard
 Dynamic filters for Day, Month, and Quaters
+## How to use 
+Clone the repository: git clone https://github.com/Archanabhorga/Data-Analyst-Dashboards Open the .pbix file in Power BI Desktop.
+
+Explore and interact with the dashboard using slicers and filters.
 
 Trend lines for monthly and daily sales
 
