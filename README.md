@@ -9,5 +9,5 @@ The Adani Project focused on Daily Totals by Day, and Average of 52 week High an
 
 ## Technology Used 
  
- POWERBI 
+ POWERBI ,
  EXCEL
