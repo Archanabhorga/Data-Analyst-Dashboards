@@ -1,7 +1,7 @@
 # Data-Analyst-Dashboards
 ## Adani Project 
 
-This repositoru contains data,analysis ,and documentation related to the Adani Project.It includes project goals,datasets, methodologies,results,and future plans 
+This repository contains data,analysis ,and documentation related to the Adani Project.It includes project goals,datasets, methodologies,results,and future plans 
 
 ## Project Description 
  
